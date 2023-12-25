@@ -28,8 +28,8 @@
 
 1. Склонируйте репозиторий :
 ```bash 
-  git clone https://github.com/nevasik/golangProjectTransaction
-  cd golangProjectTransaction
+  git clone [https://github.com/nevasik/System-Transaction]
+  cd System-Transaction
  ```
 2. Установите зависимости :
 ```bash 
